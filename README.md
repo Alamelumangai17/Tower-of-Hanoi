@@ -3,7 +3,7 @@ Description:
 
 The Tower of Hanoi is a classic puzzle where the objective is to move a stack of disks from one peg to another .
 
-## Steps to run the code:
+## Steps to run the project:
 
 step1:Save the HTML file with .html extension.
 
